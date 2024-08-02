@@ -10,7 +10,7 @@ private_subnet_cidrs = ["10.0.3.0/24", "10.0.4.0/24"]
 
 availability_zones = ["us-east-1a", "us-east-1b"]
 
-ami_id = "ami-02a81a99f5ec1111" #replace this with actual ami
+ami_id = "ami-04a81a99f5ec58529" #replace this with actual ami for respective region <ubuntu>
 
 instance_type = "t2.micro"
 
