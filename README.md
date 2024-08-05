@@ -6,5 +6,5 @@
   ```sh
   terraform init
  - ****Format Terraform configuration files**:
- ```sh
+  ```sh
   terraform fmt
