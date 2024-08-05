@@ -1,7 +1,10 @@
 # Terraform Commands
 
-Here are some useful Terraform commands for managing your infrastructure:
+** Terraform commands for managing our infrastructure:**
 
 - **Initialize Terraform configuration**:
   ```sh
   terraform init
+ - ****Format Terraform configuration files**:
+ ```sh
+  terraform fmt
