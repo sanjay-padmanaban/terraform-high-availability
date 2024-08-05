@@ -1,1 +1,8 @@
-# this terraform creates a vpc with two subnets in two az , public subnets have a application lb and in private subnet ec2 instances with autoscaling launch configuration, scripts to show  instance ip address
+terraform init
+terraform fmt
+terraform validate
+terraform plan
+terraform apply -auto-approve
+terraform destroy -auto-approve
+terraform show
+terraform refresh
