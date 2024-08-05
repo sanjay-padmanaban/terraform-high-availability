@@ -10,9 +10,9 @@ This command initializes a working directory containing Terraform configuration 
 
 Format Terraform configuration files:
 
-sh
-Copy code
+```sh
 terraform fmt
+
 This command formats the Terraform configuration files to a canonical format and style.
 
 Validate Terraform configuration:
