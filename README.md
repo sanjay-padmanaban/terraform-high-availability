@@ -1,8 +1,7 @@
-terraform init
-terraform fmt
-terraform validate
-terraform plan
-terraform apply -auto-approve
-terraform destroy -auto-approve
-terraform show
-terraform refresh
+# Terraform Commands
+
+Here are some useful Terraform commands for managing your infrastructure:
+
+- **Initialize Terraform configuration**:
+  ```sh
+  terraform init
